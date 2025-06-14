@@ -8,6 +8,7 @@ import os
 intents = discord.Intents.all()
 bot = commands.Bot(command_prefix='!', intents=intents)
 
+client.run(os.environ["TOKEN"])
 
 DATA = {}
 TEAM_DATA = {}
