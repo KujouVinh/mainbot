@@ -353,4 +353,4 @@ async def open_chest(ctx, chest_type):
     else:
         await ctx.send("❌ Bạn chưa tham gia team nào.")
 
-bot.run("YOUR_BOT_TOKEN")
+bot.run("MTI1MzY3ODg0NjIzOTMwOTg3Ng.GCnk6l.sHedyyHDk-TJ0-NQ77a4VndGUtM2A_jyckCbro")
